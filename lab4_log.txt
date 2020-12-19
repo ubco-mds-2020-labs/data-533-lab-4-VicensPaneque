@@ -1,0 +1,140 @@
+commit f65d81ffa066d9bafa38ee7dd8d8d0dadaa232b2
+Author: Astarter <gbh7788280758@126.com>
+Date:   Fri Dec 18 18:17:44 2020 -0800
+
+    Create Travis CI for pull-request.PNG
+
+commit 3ddba1ab088074e7fe9569fbec1f61e5f2aea959
+Merge: d8ca015 27978c1
+Author: Bohan Gao（25611161） <gbh7788280758@126.com>
+Date:   Fri Dec 18 18:16:58 2020 -0800
+
+    Merge pull request #1 from Astarter/lab4_test
+    
+    Lab4 test
+
+commit 27978c15a1ca3efe719c58497ba8e3a0871e5f9b
+Author: Astarter <gbh7788280758@126.com>
+Date:   Fri Dec 18 18:01:47 2020 -0800
+
+    update cat.py, import the user defined exception file
+
+commit 660cd6b0daa6a9bd1564c35388b04b046b514167
+Author: VicensPaneque <vicenspaneque@gmail.com>
+Date:   Fri Dec 18 19:55:00 2020 -0600
+
+    user define exception update
+
+commit 23798f45a2215c42b511475ae6133178fbccea2c
+Merge: 671fddc 5a2b72f
+Author: Astarter <gbh7788280758@126.com>
+Date:   Fri Dec 18 17:33:39 2020 -0800
+
+    Merge branch 'lab4_test' of https://github.com/Astarter/DATA533_Lab4 into lab4_test
+
+commit 671fddc87daebed767c5f0fba53b44bdb7fe8d2b
+Author: Astarter <gbh7788280758@126.com>
+Date:   Fri Dec 18 17:32:22 2020 -0800
+
+    coverage tests
+
+commit 5a2b72f6b07057096d64fb0e4898c8c4cfad1b63
+Merge: 9e3e2e8 7b309b8
+Author: VicensPaneque <vicenspaneque@gmail.com>
+Date:   Fri Dec 18 19:29:15 2020 -0600
+
+    coverage
+
+commit 9e3e2e8144bb96802425d53733163f73b1943bf6
+Author: VicensPaneque <vicenspaneque@gmail.com>
+Date:   Fri Dec 18 19:26:57 2020 -0600
+
+    coverage update
+
+commit 7b309b882ec821f9732bd6731c6c49e901429750
+Author: Astarter <gbh7788280758@126.com>
+Date:   Fri Dec 18 17:23:17 2020 -0800
+
+    Update unittests.py
+
+commit 06ee7d0b2cd72c18176b21ac66063d25ca466f44
+Author: Astarter <gbh7788280758@126.com>
+Date:   Fri Dec 18 17:17:39 2020 -0800
+
+    Create coverage_test.PNG
+    
+    There are some wired issue that cause the cow.py cannot find the Animals module, but when we run the output test, everything looks fine.
+
+commit e5cb5ded8127e25fe14108c27747705b7717b7a6
+Author: Astarter <gbh7788280758@126.com>
+Date:   Fri Dec 18 17:06:19 2020 -0800
+
+    add new user define exception
+
+commit 63cbc90bf887e7ac48eaf1970dde40a887a3f3b5
+Author: Astarter <gbh7788280758@126.com>
+Date:   Fri Dec 18 16:14:50 2020 -0800
+
+    update the exceptions
+
+commit 28631c7aa9e76e9a6c1f71ad6979b030af8d9812
+Merge: 2faa186 ebbae59
+Author: Astarter <gbh7788280758@126.com>
+Date:   Fri Dec 18 16:02:27 2020 -0800
+
+    Merge branch 'lab4_test' of https://github.com/Astarter/DATA533_Lab4 into lab4_test
+
+commit 2faa186aa8eecf336c925f4c279d8e5b1b333229
+Author: Astarter <gbh7788280758@126.com>
+Date:   Fri Dec 18 16:02:03 2020 -0800
+
+    Update cow.py
+
+commit ebbae59e5e787db989246d71e619407b4e4e55ab
+Merge: fdd6aeb 7921d27
+Author: VicensPaneque <vicenspaneque@gmail.com>
+Date:   Fri Dec 18 18:01:07 2020 -0600
+
+    coverage
+
+commit 7921d27010c78df171cd1eea470ba2bbf64b2f58
+Author: Astarter <gbh7788280758@126.com>
+Date:   Fri Dec 18 15:58:17 2020 -0800
+
+    live stock exceptions
+
+commit fdd6aebdfcd8069779188e11acdf561cb5b6dbde
+Author: VicensPaneque <vicenspaneque@gmail.com>
+Date:   Fri Dec 18 17:56:28 2020 -0600
+
+    added coverage information
+
+commit ec9dc34693a4e77d5ee22907d9ecc9a539ebe55e
+Author: VicensPaneque <vicenspaneque@gmail.com>
+Date:   Fri Dec 18 17:46:15 2020 -0600
+
+    updated assertion methods
+
+commit d8ca015152e05c0a1c4ea0cb8e74ea380a8af83a
+Author: Astarter <gbh7788280758@126.com>
+Date:   Tue Dec 15 11:01:35 2020 -0800
+
+    Create .travis.yml
+
+commit 5069f3ac1f0caaf58b1a12c132be6be90d28d806
+Author: Astarter <gbh7788280758@126.com>
+Date:   Tue Dec 15 10:47:18 2020 -0800
+
+    Create .travis.yml
+
+commit 1650b48e9984ac58cb0ac5b3559262a3257cdaf2
+Author: Astarter <gbh7788280758@126.com>
+Date:   Thu Dec 10 20:20:39 2020 -0800
+
+    copy over files
+
+commit db8e912fe47d995c6effcbb94b8f6afa515a123c
+Author: Astarter <gbh7788280758@126.com>
+Date:   Thu Dec 10 20:12:16 2020 -0800
+
+    Create Readme.md
